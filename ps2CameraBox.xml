@@ -1,0 +1,176 @@
+<Object2Xml-SerializedObject type="MetaData">
+    <MetaDataEntries type="KeyValueUnitTriple[]">
+        <entry0 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor manufacturer" />
+            <Value type="String" value="LemnaTec" />
+            <Unit type="String" value="" />
+        </entry0>
+        <entry1 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor product name" />
+            <Value type="String" value="PS2 System" />
+            <Unit type="String" value="" />
+        </entry1>
+        <entry2 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor serial number" />
+            <Value type="String" value="prototype" />
+            <Unit type="String" value="" />
+        </entry2>
+        <entry3 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor description" />
+            <Value type="String" value="a camera measures red light emitted by chlorophyll fluorescence" />
+            <Unit type="String" value="" />
+        </entry3>
+        <entry4 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor purpose" />
+            <Value type="String" value="Measures photosynthetic efficiency" />
+            <Unit type="String" value="" />
+        </entry4>
+        <entry5 type="KeyValueUnitTriple">
+            <Key type="String" value="camera manufacturer" />
+            <Value type="String" value="allied vision" />
+            <Unit type="String" value="" />
+        </entry5>
+        <entry6 type="KeyValueUnitTriple">
+            <Key type="String" value="camera product name" />
+            <Value type="String" value="manta G-235b" />
+            <Unit type="String" value="" />
+        </entry6>
+        <entry7 type="KeyValueUnitTriple">
+            <Key type="String" value="camera serial" />
+            <Value type="String" value="50-0503354876" />
+            <Unit type="String" value="" />
+        </entry7>
+        <entry8 type="KeyValueUnitTriple">
+            <Key type="String" value="camera resolution" />
+            <Value type="String" value="1936x1216" />
+            <Unit type="String" value="" />
+        </entry8>
+
+        <entry9 type="KeyValueUnitTriple">
+            <Key type="String" value="pixel format" />
+            <Value type="String" value="mono 8bit" />
+            <Unit type="String" value="" />
+        </entry9>
+
+        <entry10 type="KeyValueUnitTriple">
+            <Key type="String" value="Optics manufaturer" />
+            <Value type="String" value="Kowa LM8HC" />
+            <Unit type="String" value="" />
+        </entry10>
+
+        <entry11 type="KeyValueUnitTriple">
+            <Key type="String" value="Optics focus setting" />
+            <Value type="String" value="0.65m" />
+            <Unit type="String" value="" />
+        </entry11>
+
+
+        <entry12 type="KeyValueUnitTriple">
+            <Key type="String" value="Optics apperture setting" />
+            <Value type="String" value="1.4" />
+            <Unit type="String" value="" />
+        </entry12>
+
+        <entry13 type="KeyValueUnitTriple">
+            <Key type="String" value="Bandpass filter center wavelength" />
+            <Value type="String" value="710" />
+            <Unit type="String" value="nm" />
+        </entry13>
+
+        <entry14 type="KeyValueUnitTriple">
+            <Key type="String" value="Bandpass filter center minimum bandwidth" />
+            <Value type="String" value="40" />
+            <Unit type="String" value="nm" />
+        </entry14>
+
+        <entry15 type="KeyValueUnitTriple">
+            <Key type="String" value="Bandpass filter center FWHM bandwidth" />
+            <Value type="String" value="47.5" />
+            <Unit type="String" value="nm" />
+        </entry15>
+
+        <entry16 type="KeyValueUnitTriple">
+            <Key type="String" value="light source desctription" />
+            <Value type="String" value="led red panel up to 7000 umol/m^2/s" />
+            <Unit type="String" value="" />
+        </entry16>
+        <entry17 type="KeyValueUnitTriple">
+            <Key type="String" value="light source wavelength" />
+            <Value type="String" value="DWL 620-630" />
+            <Unit type="String" value="nm" />
+        </entry17>
+        <entry18 type="KeyValueUnitTriple">
+            <Key type="String" value="light source details available" />
+            <Value type="String" value="LemnaTec DOE PS2 Camera Manual" />
+            <Unit type="String" value="" />
+        </entry18>
+
+        <entry19 type="KeyValueUnitTriple">
+            <Key type="String" value="light on duration" />
+            <Value type="String" value="1000" />
+            <Unit type="String" value="ms" />
+        </entry19>
+        <entry20 type="KeyValueUnitTriple">
+            <Key type="String" value="light off duration" />
+            <Value type="String" value="1000" />
+            <Unit type="String" value="ms" />
+        </entry20>
+
+        <entry21 type="KeyValueUnitTriple">
+            <Key type="String" value="location in gantry system" />
+            <Value type="String" value="camera box, facing ground" />
+            <Unit type="String" value="" />
+        </entry21>
+        <entry22 type="KeyValueUnitTriple">
+            <Key type="String" value="location in camera box x" />
+            <Value type="String" value="0.827" />
+            <Unit type="String" value="m" />
+        </entry22>
+        <entry23 type="KeyValueUnitTriple">
+            <Key type="String" value="location in camera box y" />
+            <Value type="String" value="0.710" />
+            <Unit type="String" value="m" />
+        </entry23>
+        <entry24 type="KeyValueUnitTriple">
+            <Key type="String" value="location in camera box z" />
+            <Value type="String" value="0.374" />
+            <Unit type="String" value="m" />
+        </entry24>
+        <entry25 type="KeyValueUnitTriple">
+            <Key type="String" value="field of view X" />
+            <Value type="String" value="2.673" />
+            <Unit type="String" value="m" />
+        </entry25>
+        <entry26 type="KeyValueUnitTriple">
+            <Key type="String" value="field of view y" />
+            <Value type="String" value="1.647" />
+            <Unit type="String" value="m" />
+        </entry26>
+        <entry27 type="KeyValueUnitTriple">
+            <Key type="String" value="camera computer interface" />
+            <Value type="String" value="GigE" />
+            <Unit type="String" value="" />
+        </entry27>
+        <entry28 type="KeyValueUnitTriple">
+            <Key type="String" value="Output data description0" />
+            <Value type="String" value="dark image (prior illumination) in binfile 0 (mono8)" />
+            <Unit type="String" value="" />
+        </entry28>
+        <entry29 type="KeyValueUnitTriple">
+            <Key type="String" value="Output data description1" />
+            <Value type="String" value="timestamps in last binfile (txt/xml)" />
+            <Unit type="String" value="" />
+        </entry29>
+        <entry30 type="KeyValueUnitTriple">
+            <Key type="String" value="Output data description2" />
+            <Value type="String" value="other binfiles -> image series (mono8)" />
+            <Unit type="String" value="" />
+        </entry30>
+
+        <entry31 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor id" />
+            <Value type="String" value="ps2 camera box" />
+            <Unit type="String" value="" />
+        </entry31>
+    </MetaDataEntries>
+</Object2Xml-SerializedObject>

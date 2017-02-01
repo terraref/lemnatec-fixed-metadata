@@ -1,0 +1,65 @@
+<Object2Xml-SerializedObject type="_SuggestedMetaInfos">
+  <MetaInfos type="_SuggestedMetaInfo[]">
+	<entry0 type="_SuggestedMetaInfo">
+	  <MetaInfoKey type="String" value="campaign" />
+	  <SuggestedValues type="_ValueUnitPair[]">
+	  <entry0 type="_ValueUnitPair">
+		  <Value type="String" value="seedling emergence and early vigor" />
+		  <Unit type="String" value="" />
+		</entry0>
+          <entry1 type="_ValueUnitPair">
+              <Value type="String" value="early canopy growth" />
+              <Unit type="String" value="" />
+          </entry1>
+          <entry2 type="_ValueUnitPair">
+              <Value type="String" value="mid season canopy growth" />
+              <Unit type="String" value="" />
+          </entry2>
+          <entry3 type="_ValueUnitPair">
+              <Value type="String" value="late season canopy growth" />
+              <Unit type="String" value="" />
+          </entry3>
+          <entry4 type="_ValueUnitPair">
+              <Value type="String" value="final plant stand" />
+              <Unit type="String" value="" />
+          </entry4>
+		<entry5 type="_ValueUnitPair">
+		  <Value type="String" value="testing" />
+		  <Unit type="String" value="" />
+		</entry5>
+		</SuggestedValues>
+	</entry0>
+	<entry1 type="_SuggestedMetaInfo">
+	  <MetaInfoKey type="String" value="mission or scan" />
+	  <SuggestedValues type="_ValueUnitPair[]">
+		<entry0 type="_ValueUnitPair">
+		  <Value type="String" value="3d_scan_4m" />
+		  <Unit type="String" value="" />
+		</entry0>
+		<entry1 type="_ValueUnitPair">
+		  <Value type="String" value="StereoVIS_IR_Sensors_emergence full plot 0.33m" />
+		  <Unit type="String" value="" />
+		</entry1>
+		  <entry2 type="_ValueUnitPair">
+			  <Value type="String" value="StereoVIS_IR_Sorghum2_sun ranges 0.33m" />
+			  <Unit type="String" value="" />
+		  </entry2>
+          <entry3 type="_ValueUnitPair">
+              <Value type="String" value="StereoVIS_IR_Sorghum2_shade ranges 0.33m" />
+              <Unit type="String" value="" />
+          </entry3>
+		  <entry4 type="_ValueUnitPair">
+			  <Value type="String" value="3D Scan Field 0.33MperS" />
+			  <Unit type="String" value="" />
+		  </entry4>
+		  <entry5 type="_ValueUnitPair">
+			  <Value type="String" value="3D_Scan_6m" />
+			  <Unit type="String" value="" />
+		  </entry5>
+
+	  </SuggestedValues>
+	</entry1>
+	
+  </MetaInfos>
+</Object2Xml-SerializedObject>
+

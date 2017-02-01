@@ -1,0 +1,110 @@
+<Object2Xml-SerializedObject type="MetaData">
+    <MetaDataEntries type="KeyValueUnitTriple[]">
+        <entry0 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor manufacturer" />
+            <Value type="String" value="Sky Instruments Ltd" />
+            <Unit type="String" value="" />
+        </entry0>
+        <entry1 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor product name" />
+            <Value type="String" value="SKR 1860 DA" />
+            <Unit type="String" value="" />
+        </entry1>
+        <entry2 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor serial number facing up" />
+            <Value type="String" value="45951" />
+            <Unit type="String" value="" />
+        </entry2>
+        <entry3 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor serial number facing down" />
+            <Value type="String" value="45952" />
+            <Unit type="String" value="" />
+        </entry3>
+
+        <entry4 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor description" />
+            <Value type="String" value="4 channel ampliefied sensor" />
+            <Unit type="String" value="" />
+        </entry4>
+
+        <entry5 type="KeyValueUnitTriple">
+            <Key type="String" value="channel 1 wavelength facing sky" />
+            <Value type="String" value="633" />
+            <Unit type="String" value="nm" />
+        </entry5>
+        <entry6 type="KeyValueUnitTriple">
+            <Key type="String" value="channel 1 bandwidth facing sky" />
+            <Value type="String" value="38" />
+            <Unit type="String" value="nm" />
+        </entry6>
+        <entry7 type="KeyValueUnitTriple">
+            <Key type="String" value="channel 4 wavelength facing sky" />
+            <Value type="String" value="800.7" />
+            <Unit type="String" value="nm" />
+        </entry7>
+        <entry8 type="KeyValueUnitTriple">
+            <Key type="String" value="channel 4 bandwidth facing sky" />
+            <Value type="String" value="38.5" />
+            <Unit type="String" value="nm" />
+        </entry8>
+        <entry9 type="KeyValueUnitTriple">
+            <Key type="String" value="channel 1 wavelength facing ground" />
+            <Value type="String" value="633.2" />
+            <Unit type="String" value="nm" />
+        </entry9>
+        <entry10 type="KeyValueUnitTriple">
+            <Key type="String" value="channel 1 bandwidth facing ground" />
+            <Value type="String" value="38.3" />
+            <Unit type="String" value="nm" />
+        </entry10>
+        <entry11 type="KeyValueUnitTriple">
+            <Key type="String" value="channel 4 wavelength facing ground" />
+            <Value type="String" value="799.7" />
+            <Unit type="String" value="nm" />
+        </entry11>
+        <entry12 type="KeyValueUnitTriple">
+            <Key type="String" value="channel 4 bandwidth facting ground" />
+            <Value type="String" value="38.4" />
+            <Unit type="String" value="nm" />
+        </entry12>
+        <entry13 type="KeyValueUnitTriple">
+            <Key type="String" value="Date of calibration" />
+            <Value type="String" value="2015.09.01" />
+            <Unit type="String" value="" />
+        </entry13>
+
+        <entry14 type="KeyValueUnitTriple">
+            <Key type="String" value="calibration certificate" />
+            <Value type="String" value="handed to UA Maricopa" />
+            <Unit type="String" value="" />
+        </entry14>
+
+        <entry15 type="KeyValueUnitTriple">
+            <Key type="String" value="Manufacturer advice" />
+            <Value type="String" value="recalibration within two years" />
+            <Unit type="String" value="" />
+        </entry15>
+
+        <entry16 type="KeyValueUnitTriple">
+            <Key type="String" value="location in gantry system" />
+            <Value type="String" value="top of gantry, facing up, camera box, facing ground" />
+            <Unit type="String" value="" />
+        </entry16>
+        <entry17 type="KeyValueUnitTriple">
+            <Key type="String" value="location in camera box x" />
+            <Value type="String" value="0.33" />
+            <Unit type="String" value="m" />
+        </entry17>
+        <entry18 type="KeyValueUnitTriple">
+            <Key type="String" value="location in camera box y" />
+            <Value type="String" value="2.50" />
+            <Unit type="String" value="m" />
+        </entry18>
+
+        <entry19 type="KeyValueUnitTriple">
+            <Key type="String" value="analog digital interface, all four sensors" />
+            <Value type="String" value="WAGO 750-478" />
+            <Unit type="String" value="" />
+        </entry19>
+    </MetaDataEntries>
+</Object2Xml-SerializedObject>

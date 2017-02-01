@@ -1,0 +1,105 @@
+<Object2Xml-SerializedObject type="MetaData">
+	<MetaDataEntries type="KeyValueUnitTriple[]">
+		<entry0 type="KeyValueUnitTriple">
+			<Key type="String" value="sensor manufacturer" />
+			<Value type="String" value="Headwall Scientific" />
+			<Unit type="String" value="" />
+		</entry0>
+		<entry1 type="KeyValueUnitTriple">
+			<Key type="String" value="sensor product name" />
+			<Value type="String" value="VNIR" />
+			<Unit type="String" value="" />
+		</entry1>
+		<entry2 type="KeyValueUnitTriple">
+			<Key type="String" value="sensor serial number" />
+			<Value type="String" value="G4-384" />
+			<Unit type="String" value="" />
+		</entry2>
+		<entry3 type="KeyValueUnitTriple">
+			<Key type="String" value="sensor description" />
+			<Value type="String" value="hyperspectral camera to measure visible near infrared (VNIR) radiation" />
+			<Unit type="String" value="" />
+		</entry3>
+		<entry4 type="KeyValueUnitTriple">
+			<Key type="String" value="sensor purpose" />
+			<Value type="String" value="measures spectral reflectance from 380nm to 1000nm" />
+			<Unit type="String" value="" />
+		</entry4>
+		<entry5 type="KeyValueUnitTriple">
+			<Key type="String" value="location in gantry system" />
+			<Value type="String" value="camera box, facing ground" />
+			<Unit type="String" value="" />
+		</entry5>
+		<entry6 type="KeyValueUnitTriple">
+			<Key type="String" value="location in camera box x" />
+			<Value type="String" value="0.877" />
+			<Unit type="String" value="m" />
+		</entry6>
+		<entry7 type="KeyValueUnitTriple">
+			<Key type="String" value="location in camera box y" />
+			<Value type="String" value="2.325" />
+			<Unit type="String" value="m" />            
+		</entry7>
+		<entry8 type="KeyValueUnitTriple">
+			<Key type="String" value="location in camera box z" />
+			<Value type="String" value="0.635" />
+			<Unit type="String" value="m" />
+		</entry8>
+		
+	<entry9 type="KeyValueUnitTriple">
+			<Key type="String" value="field of view y" />
+			<Value type="String" value="1.000" />
+			<Unit type="String" value="m" />
+		</entry9>
+
+		<entry10 type="KeyValueUnitTriple">
+			<Key type="String" value="optics manufactuer" />
+			<Value type="String" value="Schneider Kreuznach" />
+			<Unit type="String" value="" />
+		</entry10>
+		<entry11 type="KeyValueUnitTriple">
+			<Key type="String" value="optics name" />
+			<Value type="String" value="Xenoplan 1.4/23-0902 CM 120 BK 15 Compac 21-100 1917 32326" />
+			<Unit type="String" value="" />
+		</entry11>
+
+		<entry12 type="KeyValueUnitTriple">
+			<Key type="String" value="optics focal length" />
+			<Value type="String" value="22.5" />
+			<Unit type="String" value="mm" />
+		</entry12>
+		
+		<entry13 type="KeyValueUnitTriple">
+			<Key type="String" value="optics focus setting" />
+			<Value type="String" value="2m" />
+			<Unit type="String" value="" />
+		</entry13>
+		
+		<entry14 type="KeyValueUnitTriple">
+			<Key type="String" value="optics apperture setting" />
+			<Value type="String" value="f/2" />
+			<Unit type="String" value="" />
+		</entry14>
+		<entry15 type="KeyValueUnitTriple">
+			<Key type="String" value="output data format" />
+			<Value type="String" value="hypercube with preview image and additional information provided by sensor" />
+			<Unit type="String" value="" />
+		</entry15>
+		<entry16 type="KeyValueUnitTriple">
+			<Key type="String" value="max scan resolution width" />
+			<Value type="String" value="1600" />
+			<Unit type="String" value="pixel" />
+		</entry16>
+		<entry17 type="KeyValueUnitTriple">
+			<Key type="String" value="calibration available" />
+			<Value type="String" value="calibration white/dark reference need to be done constantly during measurements" />
+			<Unit type="String" value="" />
+		</entry17>
+	
+		<entry18 type="KeyValueUnitTriple">
+			<Key type="String" value="sensor id" />
+			<Value type="String" value="vnir camera box" />
+			<Unit type="String" value="" />
+		</entry18>
+	</MetaDataEntries>
+</Object2Xml-SerializedObject>

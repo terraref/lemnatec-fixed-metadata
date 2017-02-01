@@ -1,0 +1,73 @@
+<Object2Xml-SerializedObject type="MetaData">
+  <MetaDataEntries type="KeyValueUnitTriple[]">
+    <entry0 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor manufacturer" />
+      <Value type="String" value="Holland Scientific" />
+      <Unit type="String" value="" />
+    </entry0>
+    <entry1 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor product name" />
+      <Value type="String" value="Crop Cirlce ACS430" />
+      <Unit type="String" value="" />
+    </entry1>
+    <entry2 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor serial number" />
+      <Value type="String" value="201344077" />
+      <Unit type="String" value="" />
+    </entry2>
+    <entry3 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor description" />
+      <Value type="String" value="Active Crop Canopy Sensor" />
+      <Unit type="String" value="" />
+    </entry3>
+    <entry4 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor purpose" />
+      <Value type="String" value="measure crop/soil refelectance at 670nm, 730nm, 780nm" />
+      <Unit type="String" value="" />
+    </entry4>
+    <entry5 type="KeyValueUnitTriple">
+      <Key type="String" value="location in gantry system" />
+      <Value type="String" value="camera box, facing ground" />
+      <Unit type="String" value="" />
+    </entry5>
+    <entry6 type="KeyValueUnitTriple">
+      <Key type="String" value="location in camera box x" />
+      <Value type="String" value="0.480" />
+      <Unit type="String" value="m" />
+    </entry6>
+    <entry7 type="KeyValueUnitTriple">
+      <Key type="String" value="location in camera box y" />
+      <Value type="String" value="1.920" />
+      <Unit type="String" value="m" />
+    </entry7>
+      <entry8 type="KeyValueUnitTriple">
+          <Key type="String" value="location in camera box z" />
+          <Value type="String" value="0.6" />
+          <Unit type="String" value="m" />
+      </entry8>
+    <entry9 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor computer interface" />
+      <Value type="String" value="RS232@38400bit/s" />
+      <Unit type="String" value="" />
+    </entry9>
+    <entry10 type="KeyValueUnitTriple">
+      <Key type="String" value="Calibration available" />
+      <Value type="String" value="false" />
+      <Unit type="String" value="" />
+    </entry10>
+
+    <entry11 type="KeyValueUnitTriple">
+      <Key type="String" value="output data format" />
+      <Value type="String" value="text/xml" />
+      <Unit type="String" value="" />
+    </entry11>
+	
+	<entry12 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor id" />
+      <Value type="String" value="crop circle camera box" />
+      <Unit type="String" value="" />
+    </entry12>
+    
+
+  </MetaDataEntries>
+</Object2Xml-SerializedObject>

@@ -1,0 +1,151 @@
+<Object2Xml-SerializedObject type="MetaData">
+    <MetaDataEntries type="KeyValueUnitTriple[]">
+        <entry0 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor manufacturer" />
+            <Value type="String" value="FLIR Systems" />
+            <Unit type="String" value="" />
+        </entry0>
+        <entry1 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor product name" />
+            <Value type="String" value="A615" />
+            <Unit type="String" value="" />
+        </entry1>
+        <entry1 type="KeyValueUnitTriple">
+            <Key type="String" value="Modell" />
+            <Value type="String" value="PT1000 ST-FLR1" />
+            <Unit type="String" value="" />
+        </entry1>
+        <entry2 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor serial number" />
+            <Value type="String" value="55003076" />
+            <Unit type="String" value="" />
+        </entry2>
+        <entry3 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor description" />
+            <Value type="String" value="IR Sensor 640x480" />
+            <Unit type="String" value="" />
+        </entry3>
+        <entry4 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor purpose" />
+            <Value type="String" value="measure infrared radiation from soil/crop surface" />
+            <Unit type="String" value="" />
+        </entry4>
+        <entry5 type="KeyValueUnitTriple">
+            <Key type="String" value="buildin variable optics" />
+            <Value type="String" value="" />
+            <Unit type="String" value="" />
+        </entry5>
+        <entry6 type="KeyValueUnitTriple">
+            <Key type="String" value="location in gantry system" />
+            <Value type="String" value="camera box, facing ground" />
+            <Unit type="String" value="" />
+        </entry6>
+        <entry7 type="KeyValueUnitTriple">
+            <Key type="String" value="location in camera box x" />
+            <Value type="String" value="0.877" />
+            <Unit type="String" value="m" />
+        </entry7>
+        <entry8 type="KeyValueUnitTriple">
+            <Key type="String" value="location in camera box y" />
+            <Value type="String" value="1.361" />
+            <Unit type="String" value="m" />
+        </entry8>
+        <entry9 type="KeyValueUnitTriple">
+            <Key type="String" value="location in camera box z" />
+            <Value type="String" value="0.520" />
+            <Unit type="String" value="m" />
+        </entry9>
+
+        <entry10 type="KeyValueUnitTriple">
+            <Key type="String" value="field of view x" />
+            <Value type="String" value="1.496" />
+            <Unit type="String" value="m" />
+        </entry10>
+        <entry11 type="KeyValueUnitTriple">
+            <Key type="String" value="field of view y" />
+            <Value type="String" value="1.105" />
+            <Unit type="String" value="m" />
+        </entry11>
+
+        <entry12 type="KeyValueUnitTriple">
+            <Key type="String" value="output data format" />
+            <Value type="String" value="16bit unsigned integer" />
+            <Unit type="String" value="" />
+        </entry12>
+        <entry13 type="KeyValueUnitTriple">
+            <Key type="String" value="calibration available" />
+            <Value type="String" value="calibration parameters from FLIR to convert gray value to temperature" />
+            <Unit type="String" value="" />
+        </entry13>
+        <entry14 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor computer interface" />
+            <Value type="String" value="GigE" />
+            <Unit type="String" value="" />
+        </entry14>
+
+        <entry15 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor id" />
+            <Value type="String" value="ir camera box" />
+            <Unit type="String" value="" />
+        </entry15>
+
+
+        <entry16 type="KeyValueUnitTriple">
+            <Key type="String" value="calibration R" />
+            <Value type="String" value="16923.6" />
+            <Unit type="String" value="" />
+        </entry16>
+        <entry17 type="KeyValueUnitTriple">
+            <Key type="String" value="calibration B" />
+            <Value type="String" value="1434.6" />
+            <Unit type="String" value="" />
+        </entry17>
+        <entry18 type="KeyValueUnitTriple">
+            <Key type="String" value="calibration F" />
+            <Value type="String" value="1" />
+            <Unit type="String" value="" />
+        </entry18>
+        <entry19 type="KeyValueUnitTriple">
+            <Key type="String" value="calibration J1" />
+            <Value type="String" value="70.0704" />
+            <Unit type="String" value="" />
+        </entry19>
+        <entry20 type="KeyValueUnitTriple">
+            <Key type="String" value="calibration J0" />
+            <Value type="String" value="4124" />
+            <Unit type="String" value="" />
+        </entry20>
+        <entry21 type="KeyValueUnitTriple">
+            <Key type="String" value="calibration alpha1" />
+            <Value type="String" value="0.006569" />
+            <Unit type="String" value="" />
+        </entry21>
+        <entry22 type="KeyValueUnitTriple">
+            <Key type="String" value="calibration alpha2" />
+            <Value type="String" value="0.01262" />
+            <Unit type="String" value="" />
+        </entry22>
+        <entry23 type="KeyValueUnitTriple">
+            <Key type="String" value="calibration X" />
+            <Value type="String" value="1.9" />
+            <Unit type="String" value="" />
+        </entry23>
+        <entry24 type="KeyValueUnitTriple">
+            <Key type="String" value="calibration beta1" />
+            <Value type="String" value="-0.002276" />
+            <Unit type="String" value="" />
+        </entry24>
+        <entry25 type="KeyValueUnitTriple">
+            <Key type="String" value="calibration beta2" />
+            <Value type="String" value="-0.00667" />
+            <Unit type="String" value="" />
+        </entry25>
+        <entry26 type="KeyValueUnitTriple">
+            <Key type="String" value="is calibrated" />
+            <Value type="String" value="False" />
+            <Unit type="String" value="" />
+        </entry26>
+
+
+    </MetaDataEntries>
+</Object2Xml-SerializedObject>

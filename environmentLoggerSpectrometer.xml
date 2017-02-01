@@ -1,0 +1,20 @@
+<Object2Xml-SerializedObject type="_MetaDataList">
+  <Entries type="_MetaDataPair[]">
+    <entry0 type="_MetaDataPair">
+      <Key type="String" value="manufacturer" />
+      <Value type="String" value="www.oceanoptics.com" />
+    </entry0>
+    <entry1 type="_MetaDataPair">
+      <Key type="String" value="model" />
+      <Value type="String" value="STS-VIS" />
+    </entry1>
+    <entry2 type="_MetaDataPair">
+      <Key type="String" value="location in gantry system" />
+      <Value type="String" value="top of gantry" />
+    </entry2>
+    <entry2 type="_MetaDataPair">
+      <Key type="String" value="spectral range " />
+      <Value type="String" value="350-800nm" />
+    </entry2> 
+  </Entries>
+</Object2Xml-SerializedObject>

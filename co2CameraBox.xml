@@ -1,0 +1,75 @@
+<Object2Xml-SerializedObject type="MetaData">
+  <MetaDataEntries type="KeyValueUnitTriple[]">
+    <entry0 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor manufacturer" />
+      <Value type="String" value="Vaisala" />
+      <Unit type="String" value="" />
+    </entry0>
+    <entry1 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor product name" />
+      <Value type="String" value="Carbocap CO2 Probe GMP343 A1C1B0N0N0B" />
+      <Unit type="String" value="" />
+    </entry1>
+    <entry2 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor serial number" />
+      <Value type="String" value="L3420008" />
+      <Unit type="String" value="" />
+    </entry2>
+    <entry3 type="KeyValueUnitTriple">
+      <Key type="String" value="additional info" />
+      <Value type="String" value="SO 5530060878" />
+      <Unit type="String" value="" />
+    </entry3>
+    <entry4 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor purpose" />
+      <Value type="String" value="measure CO2 concentration in air" />
+      <Unit type="String" value="" />
+    </entry4>
+    <entry5 type="KeyValueUnitTriple">
+      <Key type="String" value="calibration date" />
+      <Value type="String" value="2015.08.18" />
+      <Unit type="String" value="" />
+    </entry5>
+    <entry6 type="KeyValueUnitTriple">
+      <Key type="String" value="calibration certificate" />
+      <Value type="String" value="handed out to UA Maricopa" />
+      <Unit type="String" value="" />
+    </entry6>
+    <entry7 type="KeyValueUnitTriple">
+      <Key type="String" value="location in gantry system" />
+      <Value type="String" value="camera box, facing ground" />
+      <Unit type="String" value="" />
+    </entry7>
+    <entry8 type="KeyValueUnitTriple">
+      <Key type="String" value="location in camera box x" />
+      <Value type="String" value="0.35" />
+      <Unit type="String" value="m" />
+    </entry8>
+    <entry9 type="KeyValueUnitTriple">
+      <Key type="String" value="location in camera box y" />
+      <Value type="String" value="2.62" />
+      <Unit type="String" value="m" />
+    </entry9>
+      <entry10 type="KeyValueUnitTriple">
+          <Key type="String" value="location in camera box z" />
+          <Value type="String" value="0.7" />
+          <Unit type="String" value="m" />
+      </entry10> 
+    <entry11 type="KeyValueUnitTriple">
+      <Key type="String" value="analog digital interface" />
+      <Value type="String" value="WAGO 750-478" />
+      <Unit type="String" value="" />
+    </entry11>
+    <entry12 type="KeyValueUnitTriple">
+      <Key type="String" value="output data format" />
+      <Value type="String" value="text/xml" />
+      <Unit type="String" value="" />
+    </entry12>
+	<entry13 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor id" />
+      <Value type="String" value="co2 camera box" />
+      <Unit type="String" value="" />
+    </entry13>
+    
+  </MetaDataEntries>
+</Object2Xml-SerializedObject>

@@ -1,0 +1,16 @@
+<Object2Xml-SerializedObject type="_MetaDataList">
+  <Entries type="_MetaDataPair[]">
+    <entry0 type="_MetaDataPair">
+      <Key type="String" value="manufacturer" />
+      <Value type="String" value="www.apogeeinstruments.com" />
+    </entry0>
+    <entry1 type="_MetaDataPair">
+      <Key type="String" value="model" />
+      <Value type="String" value="SQ214" />
+    </entry1>
+    <entry2 type="_MetaDataPair">
+      <Key type="String" value="location in gantry system" />
+      <Value type="String" value="top of gantry" />
+    </entry2>
+  </Entries>
+</Object2Xml-SerializedObject>

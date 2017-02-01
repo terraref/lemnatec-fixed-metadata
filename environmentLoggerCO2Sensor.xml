@@ -1,0 +1,32 @@
+<Object2Xml-SerializedObject type="_MetaDataList">
+  <Entries type="_MetaDataPair[]">
+    <entry0 type="_MetaDataPair">
+      <Key type="String" value="sensor manufacturer" />
+      <Value type="String" value="Vaisala" />
+    </entry0>
+    <entry1 type="_MetaDataPair">
+      <Key type="String" value="model" />
+      <Value type="String" value="Carbocap CO2 Probe GMP343 A1C1B0N0N0B" />
+    </entry1>
+    <entry2 type="_MetaDataPair">
+      <Key type="String" value="sensor serial number" />
+      <Value type="String" value="L3420008" />
+    </entry2>
+    <entry3 type="_MetaDataPair">
+      <Key type="String" value="additional info" />
+      <Value type="String" value="SO 5530060878" />
+    </entry3>
+    <entry4 type="_MetaDataPair">
+      <Key type="String" value="calbration date" />
+      <Value type="String" value="2015.08.18" />
+    </entry4>
+    <entry5 type="_MetaDataPair">
+      <Key type="String" value="location in gantry system" />
+      <Value type="String" value="camera box" />
+    </entry5>
+    <entry6 type="_MetaDataPair">
+      <Key type="String" value="analog digital interface" />
+      <Value type="String" value="WAGO 750-478" />
+    </entry6>
+  </Entries>
+</Object2Xml-SerializedObject>

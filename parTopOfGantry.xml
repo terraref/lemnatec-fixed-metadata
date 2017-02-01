@@ -1,0 +1,50 @@
+<Object2Xml-SerializedObject type="MetaData">
+  <MetaDataEntries type="KeyValueUnitTriple[]">
+    <entry0 type="KeyValueUnitTriple">
+      <Key type="String" value="Apogee Instruments" />
+      <Value type="String" value="AVT" />
+      <Unit type="String" value="" />
+    </entry0>
+    <entry1 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor product name" />
+      <Value type="String" value="PAR sensor" />
+      <Unit type="String" value="" />
+    </entry1>
+    <entry2 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor serial number" />
+      <Value type="String" value="Todo" />
+      <Unit type="String" value="" />
+    </entry2>
+    <entry3 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor description" />
+      <Value type="String" value="measure intensity of photosynthetic active radiation (PAR)" />
+      <Unit type="String" value="" />
+    </entry3>
+    <entry4 type="KeyValueUnitTriple">
+      <Key type="String" value="location in gantry system" />
+      <Value type="String" value="fixed position top of gantry facing sky" />
+      <Unit type="String" value="" />
+    </entry4>
+    <entry5 type="KeyValueUnitTriple">
+      <Key type="String" value="calibration available" />
+      <Value type="String" value="true" />
+      <Unit type="String" value="" />
+    </entry5>
+
+    
+    <entry6 type="KeyValueUnitTriple">
+      <Key type="String" value="analog digital interface" />
+      <Value type="String" value="WAGO 750-492" />
+      <Unit type="String" value="" />
+    </entry6>
+    
+    <entry7 type="KeyValueUnitTriple">
+        <Key type="String" value="sensor id" />
+        <Value type="String" value="par" />
+        <Unit type="String" value="" />
+    </entry7>
+
+    
+    
+  </MetaDataEntries>
+</Object2Xml-SerializedObject>

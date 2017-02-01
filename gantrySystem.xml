@@ -1,0 +1,60 @@
+<Object2Xml-SerializedObject type="MetaData">
+    <MetaDataEntries type="KeyValueUnitTriple[]">
+        
+        <entry0 type="KeyValueUnitTriple">
+            <Key type="String" value="system manufacturer" />
+            <Value type="String" value="LemnaTec Corp., 4240 Duncan Ave, Saint Louis, MO 63110" />
+            <Unit type="String" value="" />
+        </entry0>
+        <entry1 type="KeyValueUnitTriple">
+            <Key type="String" value="LemnaTec ProjNo" />
+            <Value type="String" value="7100019" />
+            <Unit type="String" value="" />
+        </entry1>
+        <entry2 type="KeyValueUnitTriple">
+            <Key type="String" value="LemnaTecs field scanalzyer no" />
+            <Value type="String" value="2" />
+            <Unit type="String" value="" />
+        </entry2>
+        <entry3>
+            <Key type="String" value="project responsible" />
+            <Value type="String" value="ben.niehaus@lemnatec.de" />
+            <Unit type="String" value="" />
+        </entry3>
+        <entry4 type="KeyValueUnitTriple">
+            <Key type="String" value="date of installation" />
+            <Value type="String" value="april 2016" />
+            <Unit type="String" value="" />
+        </entry4>
+        <entry5 type="KeyValueUnitTriple">
+            <Key type="String" value="system scan area n-s" />
+            <Value type="String" value="211" />
+            <Unit type="String" value="m" />
+        </entry5>
+        <entry6 type="KeyValueUnitTriple">
+            <Key type="String" value="system scan area e-w" />
+            <Value type="String" value="23.125" />
+            <Unit type="String" value="m" />
+        </entry6>
+        <entry7 type="KeyValueUnitTriple">
+            <Key type="String" value="system scan area height" />
+            <Value type="String" value="8" />
+            <Unit type="String" value="m" />
+        </entry7>
+        <entry8 type="KeyValueUnitTriple">
+            <Key type="String" value="funded by" />
+            <Value type="String" value="ARPA-E" />
+            <Unit type="String" value="" />
+        </entry8>
+        <entry9 type="KeyValueUnitTriple">
+            <Key type="String" value="trivials" />
+            <Value type="String" value="biggest agriculture robot in the world" />
+            <Unit type="String" value="" />
+        </entry9>
+        <entry10 type="KeyValueUnitTriple">
+            <Key type="String" value="date of handover" />
+            <Value type="String" value="15-12-2016" />
+            <Unit type="String" value="" />
+        </entry10>
+    </MetaDataEntries>
+</Object2Xml-SerializedObject>

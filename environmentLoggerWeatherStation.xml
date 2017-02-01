@@ -1,0 +1,20 @@
+<Object2Xml-SerializedObject type="_MetaDataList">
+  <Entries type="_MetaDataPair[]">
+    <entry0 type="_MetaDataPair">
+      <Key type="String" value="manufacturer" />
+      <Value type="String" value="www.thiesclima.com" />
+    </entry0>
+    <entry1 type="_MetaDataPair">
+      <Key type="String" value="article nr" />
+      <Value type="String" value="4.9200.00.000" />
+    </entry1>
+    <entry2 type="_MetaDataPair">
+      <Key type="String" value="analog digital interface" />
+      <Value type="String" value="wago 750-478" />
+    </entry2>
+    <entry3 type="_MetaDataPair">
+      <Key type="String" value="location in gantry system" />
+      <Value type="String" value="top of gantry" />
+    </entry3>
+  </Entries>
+</Object2Xml-SerializedObject>

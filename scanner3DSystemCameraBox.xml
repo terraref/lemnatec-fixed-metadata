@@ -1,0 +1,99 @@
+﻿<Object2Xml-SerializedObject type="MetaData">
+    <MetaDataEntries type="KeyValueUnitTriple[]">
+        <entry0 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor manufacturer" />
+            <Value type="String" value="Fraunhofer-Entwicklungszentrum Röntgentechnik EZRT, Berührungslose Mess- und Prüfsysteme, www.iis.fraunhofer.de" />
+            <Unit type="String" value="" />
+        </entry0>
+        <entry1 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor product name" />
+            <Value type="String" value="Custom made 3D Scanner" />
+            <Unit type="String" value="" />
+        </entry1>
+        <entry2 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor east serial number" />
+            <Value type="String" value="S215-1030" />
+            <Unit type="String" value="" />
+        </entry2>
+        <entry3 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor west serial number" />
+            <Value type="String" value="S215-1036" />
+            <Unit type="String" value="" />
+        </entry3>
+        <entry4 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor description" />
+            <Value type="String" value="two laser / camera combinations" />
+            <Unit type="String" value="" />
+        </entry4>
+        <entry5 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor purpose" />
+            <Value type="String" value="measure 3D surface topology" />
+            <Unit type="String" value="" />
+        </entry5>
+        <entry6 type="KeyValueUnitTriple">
+            <Key type="String" value="laser emission wavelenght" />
+            <Value type="String" value="810" />
+            <Unit type="String" value="nm" />
+        </entry6>
+        <entry7 type="KeyValueUnitTriple">
+            <Key type="String" value="laser emission energy" />
+            <Value type="String" value="2" />
+            <Unit type="String" value="W" />
+        </entry7>
+        <entry8 type="KeyValueUnitTriple">
+            <Key type="String" value="location in gantry system" />
+            <Value type="String" value="camera box, facing ground" />
+            <Unit type="String" value="" />
+        </entry8>
+        <entry9 type="KeyValueUnitTriple">
+            <Key type="String" value="scanner east location in camera box x" />
+            <Value type="String" value="2.070" />
+            <Unit type="String" value="m" />
+        </entry9>
+        <entry10 type="KeyValueUnitTriple">
+            <Key type="String" value="scanner east location in camera box y" />
+            <Value type="String" value="0.306" />
+            <Unit type="String" value="m" />
+        </entry10>
+        <entry11 type="KeyValueUnitTriple">
+            <Key type="String" value="scanner east location in camera box z" />
+            <Value type="String" value="1.135" />
+            <Unit type="String" value="m" />
+        </entry11>
+        <entry12 type="KeyValueUnitTriple">
+            <Key type="String" value="scanner west location in camera box x" />
+            <Value type="String" value="2.070" />
+            <Unit type="String" value="m" />
+        </entry12>
+        <entry13 type="KeyValueUnitTriple">
+            <Key type="String" value="scanner west location in camera box y" />
+            <Value type="String" value="2.726" />
+            <Unit type="String" value="m" />
+        </entry13>
+        <entry14 type="KeyValueUnitTriple">
+            <Key type="String" value="scanner west location in camera box z" />
+            <Value type="String" value="1.135" />
+            <Unit type="String" value="m" />
+        </entry14>
+        <entry15 type="KeyValueUnitTriple">
+            <Key type="String" value="field of view y" />
+            <Value type="String" value="0.800" />
+            <Unit type="String" value="m" />
+        </entry15>
+        <entry16 type="KeyValueUnitTriple">
+            <Key type="String" value="Calibration available" />
+            <Value type="String" value="true" />
+            <Unit type="String" value="" />
+        </entry16>
+        <entry17 type="KeyValueUnitTriple">
+            <Key type="String" value="output data format" />
+            <Value type="String" value=".ply open file format" />
+            <Unit type="String" value="" />
+        </entry17>
+        <entry18 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor id" />
+            <Value type="String" value="3d camera box" />
+            <Unit type="String" value="" />
+        </entry18>
+    </MetaDataEntries>
+</Object2Xml-SerializedObject>

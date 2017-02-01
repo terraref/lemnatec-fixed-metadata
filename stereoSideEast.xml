@@ -1,0 +1,119 @@
+<Object2Xml-SerializedObject type="MetaData">
+  <MetaDataEntries type="KeyValueUnitTriple[]">
+    <entry0 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor manufacturer" />
+      <Value type="String" value="LemnaTec Corp." />
+      <Unit type="String" value="" />
+    </entry0>
+   
+      <entry1 type="KeyValueUnitTriple">
+      <Key type="String" value="sensor product name" />
+      <Value type="String" value="Stereo RGB camera" />
+      <Unit type="String" value="" />
+    </entry1>
+
+      <entry2 type="KeyValueUnitTriple">
+          <Key type="String" value="cameras alignment" />
+          <Value type="String" value="cameras on east facing west, optical axis parallel to YAxis, parallel to ground" />
+          <Unit type="String" value="" />
+      </entry2>
+
+      <entry3 type="KeyValueUnitTriple">
+          <Key type="String" value="camera manufacturer (up and down)" />
+          <Value type="String" value="Allied Vision" />
+          <Unit type="String" value="" />
+      </entry3>
+
+      <entry4 type="KeyValueUnitTriple">
+          <Key type="String" value="camera product name (up and down)" />
+          <Value type="String" value="GT3300C" />
+          <Unit type="String" value="" />
+      </entry4>
+
+      <entry5 type="KeyValueUnitTriple">
+          <Key type="String" value="camera serial number (up)" />
+          <Value type="String" value="02-2623A-07139" />
+          <Unit type="String" value="" />
+      </entry5>
+
+      <entry6 type="KeyValueUnitTriple">
+          <Key type="String" value="camera serial number (down)" />
+          <Value type="String" value="02-2623A-07140" />
+          <Unit type="String" value="" />
+      </entry6>
+
+
+      <entry7 type="KeyValueUnitTriple">
+          <Key type="String" value="optics description (both)" />
+          <Value type="String" value="Zeiss Makro-Planar 2/50 ZF" />
+          <Unit type="String" value="" />
+      </entry7>
+
+      <entry8 type="KeyValueUnitTriple">
+          <Key type="String" value="optics serial (up)" />
+          <Value type="String" value="15584825" />
+          <Unit type="String" value="" />
+      </entry8>
+
+      <entry9 type="KeyValueUnitTriple">
+          <Key type="String" value="optics serial (down)" />
+          <Value type="String" value="15584821" />
+          <Unit type="String" value="" />
+      </entry9>
+
+      <entry10 type="KeyValueUnitTriple">
+          <Key type="String" value="optics focus setting (both)" />
+          <Value type="String" value="3.0m" />
+          <Unit type="String" value="" />
+      </entry10>
+
+      <entry11 type="KeyValueUnitTriple">
+          <Key type="String" value="optics apperture setting (both)" />
+          <Value type="String" value="16" />
+          <Unit type="String" value="" />
+      </entry11>
+
+      <entry12 type="KeyValueUnitTriple">
+          <Key type="String" value="output data format" />
+          <Value type="String" value="Bayer GR8 3296x2472" />
+          <Unit type="String" value="" />
+      </entry12>
+
+      <entry13 type="KeyValueUnitTriple">
+          <Key type="String" value="sensor purpose" />
+          <Value type="String" value="capture RGB images" />
+          <Unit type="String" value="" />
+      </entry13>
+
+      <entry14 type="KeyValueUnitTriple">
+          <Key type="String" value="location in gantry system" />
+          <Value type="String" value=" east side facing west" />
+          <Unit type="String" value="" />
+      </entry14>
+
+      <entry15 type="KeyValueUnitTriple">
+          <Key type="String" value="field of view at 3m in X- Y- direction" />
+          <Value type="String" value="[1.246 1.857]" />
+          <Unit type="String" value="m" />
+      </entry15>
+
+      <entry16 type="KeyValueUnitTriple">
+          <Key type="String" value="bounding Box" />
+          <Value type="String" value="[1.246 1.857]" />
+          <Unit type="String" value="m" />
+      </entry16>
+
+      <entry17 type="KeyValueUnitTriple">
+          <Key type="String" value="calibration available" />
+          <Value type="String" value="false" />
+          <Unit type="String" value="" />
+      </entry17>
+
+      <entry18 type="KeyValueUnitTriple">
+          <Key type="String" value="sensor id" />
+          <Value type="String" value="stereo system (side east)" />
+          <Unit type="String" value="" />
+      </entry18>
+      
+  </MetaDataEntries>
+</Object2Xml-SerializedObject>

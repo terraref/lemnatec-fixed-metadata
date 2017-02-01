@@ -1,0 +1,39 @@
+<Object2Xml-SerializedObject type="MetaData">
+  <MetaDataEntries type="KeyValueUnitTriple[]">
+    <entry0 type="KeyValueUnitTriple">
+      <Key type="String" value="experiment title" />
+      <Value type="String" value="Wheat field experiment 2" />
+      <Unit type="String" value="" />
+    </entry0>
+    <entry1 type="KeyValueUnitTriple">
+      <Key type="String" value="experiment responsible" />
+      <Value type="String" value="to be named" />
+      <Unit type="String" value="" />
+  </entry1>
+    <entry2 type="KeyValueUnitTriple">
+      <Key type="String" value="project" />
+      <Value type="String" value="TERRA-REF" />
+      <Unit type="String" value="" />
+  </entry2>
+    <entry3 type="KeyValueUnitTriple">
+      <Key type="String" value="instrument" />
+      <Value type="String" value="gantry at Maricopa phenotyping facility" />
+      <Unit type="String" value="" />
+  </entry3>
+    <entry4 type="KeyValueUnitTriple">
+      <Key type="String" value="location" />
+      <Value type="String" value="Maricopa phenotyping facility" />
+      <Unit type="String" value="" />
+  </entry4>
+    <entry5 type="KeyValueUnitTriple">
+      <Key type="String" value="date of sowing" />
+      <Value type="String" value="2016-12-20" />
+      <Unit type="String" value="" />
+    </entry5>
+    <entry6 type="KeyValueUnitTriple">
+      <Key type="String" value="date of emergence" />
+      <Value type="String" value="2016-12-30" />
+      <Unit type="String" value="" />
+    </entry6>  
+  </MetaDataEntries>
+</Object2Xml-SerializedObject>

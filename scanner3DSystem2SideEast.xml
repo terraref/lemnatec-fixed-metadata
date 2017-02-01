@@ -1,0 +1,74 @@
+<Object2Xml-SerializedObject type="MetaData">
+    <MetaDataEntries type="KeyValueUnitTriple[]">
+        <entry0 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor manufacturer" />
+            <Value type="String" value="Fraunhofer-Entwicklungszentrum Röntgentechnik EZRT, Berührungslose Mess- und Prüfsysteme, www.iis.fraunhofer.de" />
+            <Unit type="String" value="" />
+        </entry0>
+        <entry1 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor product name" />
+            <Value type="String" value="Custom made 3D Scanner" />
+            <Unit type="String" value="" />
+        </entry1>
+        <entry2 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor north serial number" />
+            <Value type="String" value="todo" />
+            <Unit type="String" value="" />
+        </entry2>
+        <entry3 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor south serial number" />
+            <Value type="String" value="todo" />
+            <Unit type="String" value="" />
+        </entry3>
+        <entry4 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor description" />
+            <Value type="String" value="two laser / camera combinations" />
+            <Unit type="String" value="" />
+        </entry4>
+        <entry5 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor purpose" />
+            <Value type="String" value="measure 3D plant side topology" />
+            <Unit type="String" value="" />
+        </entry5>
+        <entry6 type="KeyValueUnitTriple">
+            <Key type="String" value="laser emission wavelenght" />
+            <Value type="String" value="810" />
+            <Unit type="String" value="nm" />
+        </entry6>
+        <entry7 type="KeyValueUnitTriple">
+            <Key type="String" value="laser emission energy" />
+            <Value type="String" value="2" />
+            <Unit type="String" value="W" />
+        </entry7>
+        <entry8 type="KeyValueUnitTriple">
+            <Key type="String" value="location in gantry system" />
+            <Value type="String" value="gantry side east, facing west, upper system" />
+            <Unit type="String" value="" />
+        </entry8>
+        <entry9 type="KeyValueUnitTriple">
+            <Key type="String" value="scanner system heigh above ground" />
+            <Value type="String" value="todo" />
+            <Unit type="String" value="m" />
+        </entry9>
+        <entry9 type="KeyValueUnitTriple">
+            <Key type="String" value="scanner scan range" />
+            <Value type="String" value="todo from-to" />
+            <Unit type="String" value="m" />
+        </entry9>
+        <entry10 type="KeyValueUnitTriple">
+            <Key type="String" value="Calibration available" />
+            <Value type="String" value="false" />
+            <Unit type="String" value="" />
+        </entry10>
+        <entry11 type="KeyValueUnitTriple">
+            <Key type="String" value="output data format" />
+            <Value type="String" value=".ply open file format" />
+            <Unit type="String" value="" />
+        </entry11>
+        <entry12 type="KeyValueUnitTriple">
+            <Key type="String" value="sensor id" />
+            <Value type="String" value="3d side east upper" />
+            <Unit type="String" value="" />
+        </entry12>
+    </MetaDataEntries>
+</Object2Xml-SerializedObject>
