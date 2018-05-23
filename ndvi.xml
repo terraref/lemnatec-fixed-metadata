@@ -69,13 +69,13 @@
         </entry12>
         <entry13 type="KeyValueUnitTriple">
             <Key type="String" value="Date of calibration" />
-            <Value type="String" value="2015.09.01" />
+            <Value type="String" value="2018.04.27" />
             <Unit type="String" value="" />
         </entry13>
 
         <entry14 type="KeyValueUnitTriple">
             <Key type="String" value="calibration certificate" />
-            <Value type="String" value="handed to UA Maricopa" />
+            <Value type="String" value="issued 2018-05-01, received at UA Maricopa" />
             <Unit type="String" value="" />
         </entry14>
 
@@ -97,7 +97,7 @@
         </entry17>
         <entry18 type="KeyValueUnitTriple">
             <Key type="String" value="location in camera box y" />
-            <Value type="String" value="2.50" />
+            <Value type="String" value="2.47" />
             <Unit type="String" value="m" />
         </entry18>
 
